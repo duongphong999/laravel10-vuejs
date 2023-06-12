@@ -9,7 +9,7 @@
 </head>
 <body>
     <div id="app">
-        <example-component/>
+
     </div>
 </body>
 </html>
